@@ -1,7 +1,4 @@
-# Gender and Age Recognition with Neural Networks  
-<p align="center">
-  <img src="https://via.placeholder.com/800x300?text=Gender+and+Age+Recognition" alt="Project Banner" width="100%">
-</p>  
+# Gender and Age Recognition with Neural Networks   
 
 ## 🚀 Project Overview  
 This project implements a deep learning model to accurately detect and classify **gender** and **age** from images. By leveraging convolutional neural networks (CNNs), the system analyzes facial features to provide real-time recognition, making it suitable for various applications, including personalized services, demographic analysis, and human-computer interaction.  
